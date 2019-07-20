@@ -1,0 +1,10 @@
+Title: User-Login
+	"As a user, I want to be able to login with registered username and password."
+	
+Acceptance Criteria:
+	"Given I'm on the home screen, and i'm not logged in, 
+	1. I can see a 'login' button, and I can login with my credential.
+	2. upon Invalid userId or password it generates error message and let user to try to login again.
+	3. upon 3 failed attempt of login user is blocked.
+	4. blocked user can be unblocked by providing registered email or phone number.
+	on success-ful login user is back on the home screen, and website shows that I'm Logged in."

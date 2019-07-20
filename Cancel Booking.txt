@@ -1,0 +1,7 @@
+Title: Cancel Booking
+	"As user I can cancel my booking."
+
+Acceptance Criteria:
+	"Given that user has a booking
+	1. had more than 24hrs left from scheduled booking.
+	2. on clicking cancel booking it cancel the booking."

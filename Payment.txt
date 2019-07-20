@@ -1,0 +1,9 @@
+Title: Payment
+	"As a user I can select payment option and pay if needed"
+
+Acceptance Criteria:
+	"Given that user has selected a service 
+	1. user can select one of many(COD,Net Banking, Debit Card) option.
+	2. if selected online payment option then pay securly needed ammount."
+	
+	

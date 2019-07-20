@@ -1,0 +1,15 @@
+Title: User-Registration
+	"As a user I can provide my details and register with system so that i can use services"
+
+Acceptance Criteria:
+	"Given that user click's on register
+	1. Enter Basic Information
+		a. Enter First Name - if any special character or number is entered or left blank then invalid - show error message.
+		b. Enter Middle Name - if any special character or number is entered then invalid - show error message.
+		c. Enter surname - if any special character or number is entered or left blank then invalid - show error message.
+		d. Enter e-mail - if invalid e-mail id  - show error message.
+		e. Enter Address - if valid pin-code then next step - if invalid show error message to enter valid pin-code.
+		f. Enter Phone Number - any character or invalid number is entered - show error message.
+		g. Enter Your Password - Password should contain atleast one Uppercase, one Lowercase character, a special character, a number, and length should be greater than 6 and less than 20 otherwise - show error.
+		h. Re-enter your Password - it should matches with passord otherwise - sho error.
+	on clicking register button user gets a user id with which it can login to system.

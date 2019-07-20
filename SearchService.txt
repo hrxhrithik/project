@@ -1,0 +1,7 @@
+Title: Search a Service
+	"As a user I can search for a service"
+	
+Acceptance Criteria:
+	1. user has an option to search for a service.
+	2. shows all related service and service provider.
+	3. select a service.
